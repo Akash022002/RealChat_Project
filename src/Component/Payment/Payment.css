@@ -1,0 +1,482 @@
+body {
+  	margin: 0; line-height: normal;
+}
+.monthly-basic {
+  position: absolute;
+  top: 304px;
+  left: 131px;
+  font-size: 18px;
+  display: inline-block;
+  font-weight: 600;
+  width: 149px;
+  height: 28px;
+}
+.frame-child {
+  position: absolute;
+  top: 314px;
+  left: 118px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 9px;
+  height: 7px;
+}
+.frame-item {
+  position: absolute;
+  top: 311px;
+  left: 115px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 16px;
+  height: 13px;
+}
+.i {
+  position: absolute;
+  top: 307px;
+  left: 353px;
+  font-size: 17px;
+  display: inline-block;
+  font-weight: 600;
+  width: 80px;
+  height: 27px;
+}
+.frame-inner {
+  position: absolute;
+    top: 290px;
+    left: 96px;
+    border-radius: 10px;
+    border: 2px solid #972ce6;
+    box-sizing: border-box;
+    width: 356px;
+    height: 80px;
+}
+.frame-inner11 {
+  position: absolute;
+  top: 414px;
+  left: 96px;
+  border-radius: 10px;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 356px;
+  height: 94px;
+}
+.arrow-icon {
+  position: absolute;
+  top: 337.07px;
+  left: 98.6px;
+  width: 358.99px;
+  height: 3.72px;
+  object-fit: contain;
+}
+.billed-every-month {
+  position: absolute;
+  top: 346px;
+  left: 123px;
+  display: inline-block;
+  width: 182px;
+  height: 18px;
+}
+.annual-basic {
+  position: absolute;
+  top: 424px;
+  left: 131px;
+  font-size: 18px;
+  display: inline-block;
+  font-weight: 600;
+  width: 133px;
+  height: 28px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 434px;
+  left: 118px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 9px;
+  height: 7px;
+}
+.frame-child1 {
+  position: absolute;
+  top: 431px;
+  left: 115px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  width: 16px;
+  height: 13px;
+}
+.i1 {
+  position: absolute;
+  top: 427px;
+  left: 353px;
+  font-size: 17px;
+  display: inline-block;
+  font-weight: 600;
+  width: 80px;
+  height: 27px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 410px;
+  left: 96px;
+  background: none;
+  border-radius: 10px;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 354px;
+  height: 109px;
+}
+.frame-child2 {
+  position: absolute;
+  top: 457.11px;
+  left: 98.6px;
+  width: 358.99px;
+  height: 3.72px;
+  object-fit: contain;
+}
+.billed-every-month1 {
+  position: absolute;
+  top: 465px;
+  left: 115px;
+  display: inline-block;
+  width: 182px;
+  height: 18px;
+}
+.save-16 {
+  position: absolute;
+  top: 487px;
+  left: 138px;
+  display: inline-block;
+  font-weight: 600;
+  width: 68px;
+  height: 14px;
+}
+.frame-child3 {
+  position: absolute;
+  top: 210px;
+  left: 664px;
+  border-radius: 7px;
+  background-color: #f7f7f8;
+  width: 353px;
+  border: 3px solid #972ce6;
+  height: 43px;
+}
+.frame-child4 {
+  position: absolute;
+  top: 212px;
+  left: 666px;
+  border-radius: 7px;
+  background-color: #fff;
+  border: 1px solid #d5cfcf;
+  box-sizing: border-box;
+  width: 174px;
+  height: 39px;
+}
+.billing-details {
+  position: absolute;
+  top: 221px;
+  left: 702px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  color: #000;
+  width: 104px;
+  height: 22px;
+}
+.payment-options {
+  position: absolute;
+  top: 221px;
+  left: 868px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  color: #737373;
+  width: 126px;
+  height: 26px;
+}
+.email-address {
+  position: absolute;
+  top: 285px;
+  left: 661px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  width: 102px;
+  height: 22px;
+}
+.frame-child5 {
+  position: absolute;
+  top: 304px;
+  left: 664px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 353px;
+  height: 31px;
+}
+.eg-johnexamplecom {
+  position: absolute;
+  top: 313px;
+  left: 675px;
+  display: inline-block;
+  color: #bebebe;
+  width: 142px;
+  height: 19px;
+}
+.username {
+  position: absolute;
+  top: 351px;
+  left: 651px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  width: 101px;
+  height: 23px;
+}
+.username1 {
+  position: absolute;
+  top: 351px;
+  left: 651px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  width: 101px;
+  height: 23px;
+}
+.username11 {
+  position: absolute;
+  top: 351px;
+  left: 651px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  width: 101px;
+  height: 23px;
+}
+.frame-child6 {
+  position: absolute;
+  top: 374px;
+  left: 664px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 353px;
+  height: 32px;
+}
+.eg-john-more {
+  position: absolute;
+  top: 382px;
+  left: 664px;
+  display: inline-block;
+  color: #bebebe;
+  width: 142px;
+  height: 19px;
+}
+.tax-id-number {
+  position: absolute;
+  top: 488px;
+  left: 636px;
+  font-size: 15px;
+  display: inline-block;
+  font-weight: 500;
+  width: 156px;
+  height: 22px;
+}
+.frame-child7 {
+  position: absolute;
+  top: 510px;
+  left: 664px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 353px;
+  height: 34px;
+}
+.eg-nhkgk2151nh {
+  position: absolute;
+  top: 519px;
+  left: 662px;
+  display: inline-block;
+  color: #bebebe;
+  width: 142px;
+  height: 19px;
+}
+.billing-address {
+  position: absolute;
+    top: 420px;
+    left: 636px;
+    font-size: 15px;
+    display: inline-block;
+    font-weight: 500;
+    width: 158px;
+    height: 22px;
+}
+.frame-child8 {
+  position: absolute;
+  top: 442px;
+  left: 664px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 2px solid #972ce6;
+  box-sizing: border-box;
+  width: 353px;
+  height: 33px;
+}
+.eg-sn-35-3 {
+  position: absolute;
+  top: 450px;
+  left: 675px;
+  display: inline-block;
+  color: #bebebe;
+  width: 142px;
+  height: 20px;
+}
+.optional {
+  position: absolute;
+  top: 488px;
+  left: 763px;
+  display: inline-block;
+  font-weight: 500;
+  color: #b4b4b4;
+  width: 67px;
+  height: 11px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 562px;
+  left: 746px;
+  border-radius: 6px;
+  background: linear-gradient(90deg, #972ce6, #9238e2 30%, #7d59d1 64.5%, #775fcc);
+  width: 193px;
+  height: 36px;
+}
+.submit {
+  position: absolute;
+  top: 569px;
+  text-decoration: none;
+  color: white;
+  left: 785px;
+  font-size: 16px;
+  display: inline-block;
+  font-weight: 600;
+  width: 115px;
+  height: 22px;
+}
+.premium-basic {
+  position: absolute;
+  top: 234px;
+  left: 178px;
+  font-size: 25px;
+  display: inline-block;
+  font-weight: 800;
+  width: 188px;
+  height: 42px;
+}
+.you-will-be {
+  position: absolute;
+  top: 541px;
+  left: 66px;
+  display: inline-block;
+  font-weight: 500;
+  width: 385px;
+  height: 19px;
+}
+.frame-child10 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: linear-gradient(90deg, #972be6, #8c43dd 32.5%, #7e58d1 60%, #7164c8 99.99%, #636fbf);
+  width: 1121px;
+  height: 128px;
+}
+.screenshot-468-2 {
+  position: absolute;
+  top: 11px;
+  left: 507px;
+  width: 107px;
+  height: 107px;
+  object-fit: cover;
+}
+.logo-sitecrafters-removebg-pre-icon {
+  position: absolute;
+  top: 598px;
+  left: 96px;
+  width: 42px;
+  height: 31px;
+  object-fit: cover;
+}
+.powered-by-sitecrafters {
+  position: absolute;
+  top: 604px;
+  left: 135px;
+  font-size: 10px;
+  display: inline-block;
+  width: 125px;
+  height: 19px;
+}
+.terms {
+  position: absolute;
+  top: 604px;
+  left: 272px;
+  font-size: 10px;
+  display: inline-block;
+  width: 36px;
+  height: 19px;
+}
+.privacy {
+  position: absolute;
+  top: 604px;
+  left: 319px;
+  font-size: 10px;
+  display: inline-block;
+  width: 36px;
+  height: 19px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 610px;
+  left: 264px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 2px;
+  height: 2px;
+}
+.frame-child12 {
+  position: absolute;
+  top: 610px;
+  left: 312px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 2px;
+  height: 2px;
+}
+.untitled-1-copy-1 {
+  position: absolute;
+  top: 4px;
+  left: 23px;
+  width: 108px;
+  height: 69px;
+  object-fit: cover;
+}
+.closepayment{
+  height: 50px;
+  width: 50px;
+}
+.monthly-basic-parent {
+  width: 1122px;
+    left: 20%;
+    top: 38px;
+    position: relative;
+    border-radius: 24px;
+    background-color: #2e2f38;
+    height: 650px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    font-family: Inter;
+}
+

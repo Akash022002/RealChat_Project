@@ -1,0 +1,82 @@
+.frame-child14 {
+    width: 177px;
+    height: 125px;
+    position: relative;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    display: none;
+  }
+  .frame-child15 {
+    height: 35px;
+    width: 37px;
+    position: relative;
+    border-radius: 50%;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ellipse-wrapper1 {
+    height: 35px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-22xl) 0 var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .preferences {
+    margin: 0;
+    height: 23px;
+    flex: 1;
+    position: relative;
+    font-size: inherit;
+    display: inline-block;
+    font-style: italic;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .preferences-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-10xs) 0 var(--padding-2xs);
+  }
+  .change-your-settings {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-2xs);
+    display: inline-block;
+    font-weight: 500;
+    color: var(--color-darkgray-100);
+    z-index: 1;
+    margin-top: -1px;
+  }
+  .frame-parent1,
+  .rectangle-parent6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-parent1 {
+    align-self: stretch;
+  }
+  .rectangle-parent6 {
+    position: absolute;
+    top: 610px;
+    left: 912px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    width: 177px;
+    padding: var(--padding-xl) var(--padding-10xl) var(--padding-6xl)
+      var(--padding-11xl);
+    box-sizing: border-box;
+    gap: var(--gap-xs);
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-mediumpurple-100);
+    font-family: var(--font-inter);
+  }
+  

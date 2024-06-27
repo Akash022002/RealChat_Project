@@ -1,0 +1,79 @@
+.frame-child12 {
+    width: 177px;
+    height: 125px;
+    position: relative;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    display: none;
+  }
+  .frame-child13 {
+    height: 45px;
+    width: 45px;
+    position: relative;
+    border-radius: 50%;
+    object-fit: cover;
+    z-index: 1;
+  }
+  .ellipse-frame {
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-15xl) 0 var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .dank-helping {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    font-style: italic;
+    font-weight: 600;
+    font-family: inherit;
+    z-index: 1;
+  }
+  .edit-your-profile {
+    flex: 1;
+    position: relative;
+    font-weight: 500;
+    z-index: 1;
+  }
+  .edit-your-profile-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-smi) 0 var(--padding-10xs);
+    margin-top: -1px;
+    font-size: var(--font-size-2xs);
+    color: var(--color-darkgray-100);
+  }
+  .dank-helping-parent,
+  .rectangle-parent5 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .dank-helping-parent {
+    align-self: stretch;
+  }
+  .rectangle-parent5 {
+    position: absolute;
+    top: 610px;
+    left: 524px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    width: 177px;
+    padding: var(--padding-3xs) var(--padding-13xl) var(--padding-6xl)
+      var(--padding-22xl);
+    box-sizing: border-box;
+    gap: var(--gap-xs);
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-mediumpurple-100);
+    font-family: var(--font-inter);
+  }
+  

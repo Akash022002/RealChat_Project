@@ -1,0 +1,413 @@
+body {
+  	margin: 0; line-height: normal;
+}.manage-interests {
+    position: absolute;
+    top: 27px;
+    left: 17px;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 700;
+    width: 144px;
+    height: 17px;
+}
+.add-and-remove {
+    position: absolute;
+    top: 52px;
+    left: 24px;
+    font-size: 9px;
+    display: inline-block;
+    font-weight: 500;
+    color: #a0a0a0;
+    width: 290px;
+    height: 10px;
+}
+.frame-childint {
+    width: 413px;
+    height: 31px;
+    margin-top: -57px;
+    position: relative;
+    z-index: 1;
+}
+.match{
+    width: 413px;
+    height: 41px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 56px;
+    background-color: #17171c;
+}
+.match-with-interests {
+    position: absolute;
+    top: 79px;
+    z-index: 999;
+    left: 33px;
+    font-size: 11px;
+    display: inline-block;
+    font-weight: 600;
+    width: 124px;
+    height: 10px;
+}
+.frame-item {
+    position: absolute;
+    top: 67px;
+    visibility: hidden;
+    left: 373px;
+    border-radius: 23px;
+    background-color: #654ab5;
+    width: 49px;
+    border: none;
+    height: 20px;
+}
+.frame-itemnew {
+    position: absolute;
+    top: 67px;
+    left: 373px;
+    border-radius: 23px;
+    background-color: #654ab5;
+    width: 49px;
+    border: none;
+    height: 20px;
+}
+.frame-inner {
+    z-index: 9999;
+    position: absolute;
+    top: 73px;
+    left: 387px;
+    border-radius: 50%;
+    background-color: #cbc2ff;
+    width: 39px;
+    border: none;
+    height: 25px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 103px;
+    left: 19px;
+    border-radius: 4px;
+    background-color: #17171c;
+    width: 408px;
+    border: none;
+    height: 44px;
+}
+.frame-child1 {
+    position: absolute;
+    top: 120px;
+    left: 27px;
+    border-radius: 5px;
+    background-color: #404048;
+    width: 114px;
+    border: none;
+    height: 26px;
+}
+.add-an-interest {
+    position: absolute;
+    top: 127px;
+    left: 43px;
+    font-size: 8px;
+    display: inline-block;
+    font-weight: 500;
+    color: #a9a7a7;
+    width: 87px;
+    height: 10px;
+}
+.interestchat{
+    font-size: 12px;
+    margin-top: 10px;
+    left: 10px;
+}
+.chatinterst{
+    margin-left: 22px;
+    margin-top: -149px;
+}
+.trending {
+    position: absolute;
+    top: 117px;
+    left: 21px;
+    font-size: 7px;
+    display: inline-block;
+    font-weight: 600;
+    width: 51px;
+    height: 10px;
+}
+.trending-1-icon {
+    position: absolute;
+    top: 117px;
+    left: 54px;
+    width: 7px;
+    height: 9px;
+    object-fit: cover;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 3px;
+    background-color: #1b1b21;
+    width: 38px;
+    height: 14px;
+}
+.icons8-trending-96-1 {
+    position: absolute;
+    top: 4px;
+    left: 5px;
+    width: 6px;
+    height: 6px;
+    object-fit: cover;
+}
+.bored {
+    position: absolute;
+    top: 4px;
+    left: 14px;
+    display: inline-block;
+    font-weight: 600;
+    width: 24px;
+    height: 5px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 136px;
+    left: 23px;
+    width: 38px;
+    height: 14px;
+}
+.gaming1 {
+    margin: 0;
+}
+.rectangle-group {
+    position: absolute;
+    top: 136px;
+    left: 191px;
+    width: 38px;
+    height: 14px;
+}
+.rectangle-container {
+    position: absolute;
+    top: 136px;
+    left: 135px;
+    width: 38px;
+    height: 14px;
+}
+.group-div {
+    position: absolute;
+    top: 136px;
+    left: 79px;
+    width: 38px;
+    height: 14px;
+}
+.frame-child2 {
+    position: absolute;
+    top: 196px;
+    left: 18px;
+    border-radius: 8px;
+    background-color: #22232a;
+    width: 412px;
+    height: 80px;
+}
+.group-child2 {
+    position: absolute;
+    top: 16px;
+    left: 8px;
+    border-radius: 2px;
+    background-color: #654ab5;
+    width: 39px;
+    height: 18px;
+}
+.group-child2new {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    border-radius: 2px;
+    background-color: #654ab5;
+    width: 39px;
+    height: 18px;
+}
+.group-child2new1 {
+    position: absolute;
+    top: 16px;
+    left: 18px;
+    border-radius: 2px;
+    background-color: #654ab5;
+    width: 39px;
+    height: 18px;
+}
+.forever {
+    position: absolute;
+    top: 21px;
+    left: 20px;
+    font-size: 7px;
+    display: inline-block;
+    font-weight: 500;
+    width: 26px;
+    height: 10px;
+}
+.forevernew {
+    position: absolute;
+    top: 21px;
+    left: 24px;
+    font-size: 7px;
+    display: inline-block;
+    font-weight: 500;
+    width: 26px;
+    height: 10px;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 223px;
+    left: 219px;
+    width: 26px;
+    height: 11px;
+    color: #cecece;
+    background-color: transparent;
+}
+.min {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    display: inline-block;
+    font-weight: 500;
+    width: 19px;
+    font-size: 7px;
+    height: 8px;
+}
+.minnew {
+    position: absolute;
+    top: 21px;
+    left: 25px;
+    display: inline-block;
+    font-weight: 500;
+    width: 19px;
+    font-size: 7px;
+    height: 8px;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 223px;
+    left: 170px;
+    width: 26px;
+    background-color: transparent;
+    height: 11px;
+    color: #cecece;
+}
+.group-child4 {
+    position: absolute;
+    top: 16px;
+    left: 15px;
+    border-radius: 2px;
+    background-color: #654ab5;
+    width: 36px;
+    height: 19px;
+}
+.sec {
+    font-size: 7px;
+    position: absolute;
+    top: 21px;
+    left: 20px;
+    display: inline-block;
+    font-weight: 500;
+    width: 26px;
+}
+.rectangle-parent3 {
+    position: absolute;
+    top: 223px;
+    left: 124px;
+    width: 26px;
+    height: 11px;
+    color: #cecece;
+}
+.rectangle-parent4 {
+    position: absolute;
+    top: 223px;
+    left: 78px;
+    width: 26px;
+    height: 11px;
+    color: #cecece;
+}
+.max-wait-duration {
+    position: absolute;
+    top: 213px;
+    left: 43px;
+    font-size: 12px;
+    display: inline-block;
+    font-weight: 600;
+    width: 126px;
+    height: 9px;
+}
+.icons8-question-mark-100-1-1 {
+    position: absolute;
+    top: 166px;
+    left: 87px;
+    width: 5px;
+    height: 5px;
+    object-fit: cover;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 223px;
+    left: 35px;
+    width: 57px;
+    height: 10px;
+    color: #cecece;
+}
+.rectangle-parent5new {
+    position: absolute;
+    top: 239px;
+    left: 42px;
+    border-radius: 3px;
+    width: 40px;
+    height: 19px;
+    color: #cecece;
+    background-color: #654ab5;
+}
+.frame-child3 {
+    position: absolute;
+    top: 279px;
+    left: 373px;
+    border-radius: 5px;
+    background-color: #1b1b21;
+    width: 47px;
+    border: none;
+    height: 26px;
+}
+.flagimg{
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+    margin-top: 200px;
+}
+.closeimg1{
+    margin-top: 20px;
+    margin-left: 410px;
+}
+.mainint{
+    background-image: url(../../../public/popupback.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 732px;
+}
+.done {
+    font-size: 10px;
+    position: absolute;
+    top: 286px;
+    left: 383px;
+    display: inline-block;
+    font-weight: 500;
+    width: 17px;
+    height: 6px;
+}
+.manage-interests-parent {
+    left: 507px;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    top: 139px;
+    position: relative;
+    border-radius: 19px;
+    background-color: #2e2f38;
+    height: 325px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 5px;
+    color: #fff;
+    font-family: Inter;
+}
+

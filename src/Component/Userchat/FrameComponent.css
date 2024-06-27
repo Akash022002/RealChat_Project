@@ -1,0 +1,99 @@
+.frame-child11 {
+    height: 55px;
+    width: 513px;
+    position: relative;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-darkslategray-300);
+    display: none;
+    max-width: 100%;
+  }
+  .icons8-photo-96-1 {
+    height: 32px;
+    width: 32px;
+    position: relative;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .send-a-message {
+    align-self: stretch;
+    height: 27px;
+    position: relative;
+    display: inline-block;
+    font-weight: 500;
+    flex-shrink: 0;
+    z-index: 4;
+  }
+  .icons8-photo-96-1-parent,
+  .send-a-message-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .send-a-message-wrapper {
+    flex: 1;
+    flex-direction: column;
+    padding: var(--padding-6xs) 0 0;
+  }
+  .icons8-photo-96-1-parent {
+    height: 34px;
+    width: 180px;
+    flex-direction: row;
+    gap: var(--gap-7xs);
+  }
+  .icons8-smiling-100-1,
+  .rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 29px;
+    width: 22px;
+    height: 24px;
+    object-fit: cover;
+    z-index: 4;
+  }
+  .rectangle-icon {
+    top: 3px;
+    left: 0;
+    border-radius: var(--br-10xs);
+    width: 19px;
+    height: 18px;
+  }
+  .icons8-smiling-100-1-parent {
+    align-self: stretch;
+    height: 24px;
+    position: relative;
+  }
+  .frame-container,
+  .rectangle-parent4 {
+    width: 51px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-11xs) 0 0;
+    box-sizing: border-box;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    top: 930px;
+    left: 626px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-darkslategray-300);
+    width: 513px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: var(--padding-xs) var(--padding-sm) var(--padding-4xs)
+      var(--padding-3xs);
+    gap: var(--gap-xl);
+    max-width: 100%;
+    z-index: 3;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-dimgray-100);
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 450px) {
+    .rectangle-parent4 {
+      flex-wrap: wrap;
+    }
+  }
+  

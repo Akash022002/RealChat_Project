@@ -1,0 +1,98 @@
+.aboutmain{
+    height: 732px;
+    background-color: rgb(30 30 30);
+}
+.logomain{
+    
+}
+.navbar1 a {
+    font-size: 16px;
+}
+.imglogo{
+    margin-left: 230px;
+    margin-top: 70px;
+    margin-right: 230px;
+    justify-content: center;
+    align-items: center;
+}
+.avatar{
+    height: 205px;
+    width: 196px;
+    margin-left: 419px;
+    border-radius: 20px;
+}
+.abouttext{
+    margin-left: 400px;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.abouttext p{
+    font-size: 32px;
+    font-weight: 600;
+    margin-left: 278px;
+}
+.aboutbottom{
+    margin-top: 29px;
+    font-weight: 500;
+    max-width: 741px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(206, 206, 206);
+    margin-left: 389px;
+}
+.footersec{
+    height: 152px;
+    width: auto;
+    background-color: rgb(18 19 18);
+    margin-top: 114px;
+    color: white;
+}
+.aheight{
+    height: 40px;
+}
+.footerlogo{
+    height: 80px;
+    width: 105px;
+    margin-top: -44px;
+    margin-left: 50px;
+    padding-top: 0px;
+}
+.foot{
+    display: flex;
+    padding-top: 60px;
+}
+.afoot{
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 239px;
+}
+.foothr{
+    height: 60px;
+}
+.foota{
+    text-decoration: none;
+    color: rgb(215, 213, 213);
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 57px;
+}
+.linefoot{
+    height: 0.5px;
+    width: 1519px;
+    visibility: visible;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.footline{
+    margin-top:-34px;
+}
+.footside{
+    text-decoration: none;
+    color: white;
+    margin-top: -5px;
+    margin-left: 617px;
+}
+.footsidemain{
+    margin-top: 10px;
+}

@@ -1,0 +1,455 @@
+.desktop-6-child {
+    position: absolute;
+    top: -2px;
+    left: -1px;
+    /*background-image: linear-gradient(180deg, #1c1938, #1a1830 47%, #000);
+    */border-radius: 0px;
+    width: 1521px;
+    height: 732px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 7px;
+    background-color: #333839;
+    width: 35.77px;
+    height: 26.23px;
+}
+.icons8-crescent-moon-100-1 {
+    position: absolute;
+    top: 4.5px;
+    left: 4.09px;
+    width: 24.53px;
+    height: 17.24px;
+    object-fit: cover;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 637.57px;
+    left: 50.57px;
+    width: 35.77px;
+    height: 26.23px;
+}
+.fotor-20240213171729-2-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 28.62px;
+    height: 21.73px;
+    object-fit: cover;
+}
+.group-item {
+    position: absolute;
+    top: 16.49px;
+    left: 18.4px;
+    border-radius: 50%;
+    background-color: #32c676;
+    width: 8.18px;
+    height: 5.25px;
+}
+.fotor-20240213171729-2-parent {
+    position: absolute;
+    top: 600.84px;
+    left: 55.68px;
+    width: 28.62px;
+    height: 21.73px;
+}
+.b6fad8179462d6ae2bd5605ed5d509-icon {
+    position: absolute;
+    top: 679px;
+    left: 53px;
+    width: 31px;
+    height: 22px;
+    object-fit: cover;
+}
+.desktop-6-item {
+    position: absolute;
+    top: 42px;
+    left: 105px;
+    border-radius: 25px;
+    visibility: hidden;
+    width: 1281px;
+    height: 659px;
+}
+.desktop-6-inner {
+    position: absolute;
+    top: 35px;
+    left: 100px;
+    border-radius: 25px;
+    background-color: none;
+    width: 1281px;
+    height: 673px;
+}
+.untitled-1-copy-1 {
+    position: absolute;
+    top: 40px;
+    left: -596px;
+    width: 113px;
+    height: 52px;
+    object-fit: cover;
+}
+.can-you-login {
+    position: absolute;
+    top: 572px;
+    left: 390px;
+    font-size: 11px;
+    display: inline-block;
+    font-weight: 600;
+    color: white;
+    width: 169px;
+    height: 10px;
+}
+.back1{
+    position: absolute;
+    top: 177px;
+    opacity: 0.4;
+    left: 9px;
+    width: 1499px;
+    height: 515px;
+    object-fit: cover;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #807f7f;
+    box-sizing: border-box;
+    width: 36px;background-color: transparent;
+    height: 28.37px;
+}
+.facebook-logo-icon-social-medi {
+    position: absolute;
+    top: 5.370000000000001px;
+    left: 9px;
+    width: 19px;
+    height: 19.64px;
+    object-fit: cover;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 600.4200000000001px;
+    left: 494px;
+    width: 32px;
+    height: 54.370000000000005px;
+}
+.navmain{
+    height: 100px;
+    width: 100px;
+}
+.navimg{
+    height: 100px;
+    width: 100px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 380px;
+    left: 385px;
+    border-radius: 50%;
+    background-color: #0080ff;
+    width: 19px;
+    height: 12px;
+}
+.desktop-6-child1 {
+    position: absolute;
+    top: 383px;
+    left: 391px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 6px;
+    height: 5px;
+}
+.female {
+    position: absolute;
+    top: 380px;
+    left: 404px;
+    visibility: hidden;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 500;
+    color: #000;
+    width: 62px;
+    height: 23px;
+}
+.desktop-6-child2 {
+    position: absolute;
+    top: 380px;
+    left: 249px;
+    visibility: hidden;
+    border-radius: 50%;
+    background-color: #0080ff;
+    width: 19px;
+    height: 12px;
+}
+.male {
+    position: absolute;
+    top: 380px;
+    left: 268px;
+    visibility: hidden;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 500;
+    color: #000;
+    width: 62px;
+    height: 23px;
+}
+.desktop-6-child3 {
+    position: absolute;
+    top: 383px;
+    left: 255px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 6px;
+    height: 5px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 411px;
+    left: 340px;
+    border-radius: 5px;
+    border: 2px solid white;
+    box-sizing: border-box;
+    width: 279px;
+    height: 37px;
+}
+.password {
+    color: white;
+    position: absolute;
+    top: 389px;
+    left: 333px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    width: 70px;
+    font-size: 12px;
+    height: 12px;
+}
+.register-here {
+    position: absolute;
+    top: 201px;
+    left: 368px;
+    font-size: 17px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    font-weight: 600;
+    color: white;
+    width: 198px;
+    height: 23px;
+}
+.desktop-6-child4 {
+    position: absolute;
+    top: 35px;
+    left: 694px;
+    border-radius: 84px 3px 22px 0px;
+    width: 692px;
+    height: 672px;
+}
+.original-b53e3a1ec92544866e42c-icon {
+    position: absolute;
+    top: 124px;
+    left: 788px;
+    width: 557px;
+    height: 594px;
+    object-fit: cover;
+}
+.original-b53e3a1ec92544866e42c-icon img{
+    margin-left: -120px;
+    height: 537px;
+    margin-top: 19px;
+    width: 837px;
+}
+.welcome-to-chatbot {
+    position: absolute;
+    top: 159px;
+    left: 274px;
+    font-size: 32px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    font-weight: 600;
+    color: white;
+    width: 408px;
+    height: 41px;
+}
+.desktop-6-child5 {
+    position: absolute;
+    top: 286px;
+    left: 338px;
+    background: transparent;
+    border-radius: 5px;
+    border: 3px solid white;
+    box-sizing: border-box;
+    width: 279px;
+    height: 36px;
+}
+.username {
+    position: absolute;
+    top: 264px;
+    left: 337px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    width: 70px;
+    color: white;
+    height: 10px;
+}
+.desktop-6-child6 {
+    position: absolute;
+    top: 351px;
+    left: 339px;
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid white;
+    box-sizing: border-box;
+    width: 279px;
+    height: 36px;
+}
+.email {
+    font-size: 13px;
+    position: absolute;
+    top: 331px;
+    left: 333px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    width: 44px;
+    color: white;
+    height: 11px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: #3c42ff;
+    width: 243px;
+    height: 36.379999999999995px;
+}
+.register {
+    position: absolute;
+    top: 10.28px;
+    left: 64px;
+    letter-spacing: -0.01em;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 600;
+    width: 149px;
+    background:  #3c42ff;
+    border: none;
+    border-radius: 5px;
+    height: 18.92px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 475.11px;
+    left: 355px;
+    width: 277px;
+    height: 28.38px;
+    font-size: 15px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+.register{
+    top: 11.280000000011px;
+    height: 27.92px;
+    left: 0px;
+    color: white;
+    width: 241px;
+    
+}
+.sign-in {
+    position: absolute;
+    top: 551px;
+    text-decoration: none;
+    left: 445px;
+    cursor: pointer;
+    font-size: 11px;
+    display: inline-block;
+    font-weight: 500;
+    color: white;
+    width: 60px;
+    height: 11px;
+}
+.line-div {
+    position: absolute;
+    top: 533.5px;
+    left: 346.5px;
+    border-top: 1px solid #b6b3b3;
+    box-sizing: border-box;
+    width: 263px;
+    height: 1px;
+}
+.png-transparent-google-logo-go-icon {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    width: 32px;
+    height: 29.65px;
+    object-fit: cover;
+}
+.ellipse-group {
+    position: absolute;
+    top: 599.4200000000001px;
+    left: 423px;
+    width: 42px;
+    height: 30.37px;
+}
+.desktop-6 {
+    width: 100%;
+    position: relative;
+    background-image: linear-gradient(180deg, #1c1938, #1a1830 47%, #000);
+    height: 731px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 12px;
+    color: #3c3939;
+    font-family: Inter;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+     
+}
+.desk{
+    margin-left: 150px;
+}
+.navcont1{
+    display: flex;
+}
+.navbar11{
+        margin-left: 367px;
+    margin-top: 54px;
+}
+.navbar11 a{
+    margin-left: 61px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn11{
+    margin-top: 51px;
+    height: 35px;
+    margin-left: 416px;
+    width: 87px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+}
+.btn11{
+    color: #151656;
+    font-weight: 600;
+}
+.btn1 a{
+    text-decoration: none;
+    cursor: pointer;
+}
+.logo11{
+    height: 92px;
+    width: 126px;
+}
+.showimg{
+    height: 400px;
+    width: 928px;
+}

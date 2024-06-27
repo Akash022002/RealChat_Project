@@ -1,0 +1,791 @@
+/*Css code for add the new premium page into the main page*/
+body {
+  	margin: 0; line-height: normal;
+}
+.desktop-3-child {
+    position: absolute;
+    top: 882px;
+    left: 1114px;
+    border-radius: 50%;
+    background-color: #fb8a35;
+    box-shadow: 0px 4px 250px 301px rgba(254, 136, 46, 0.9);
+    width: 354px;
+    height: 384px;
+    display: none;
+}
+.desktop-3-item {
+    position: absolute;
+    top: 83px;
+    left: 1542px;
+    border-radius: 50%;
+    background-color: #fb8a35;
+    box-shadow: 0px 4px 250px 368px rgba(254, 46, 246, 0.4);
+    width: 354px;
+    height: 384px;
+}
+.desktop-3-inner {
+    position: absolute;
+    top: 56px;
+    left: 51px;
+    border-radius: 25px;
+    background-color: #141618;
+    width: 1347px;
+    height: 919px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 83px;
+    left: 131px;
+    border-radius: 25px;
+    background-color: #f3f5f7;
+    width: 1238px;
+    height: 868px;
+}
+.icons8-close-64-1 {
+    position: absolute;
+    top: 97px;
+    left: 1320px;
+    width: 35px;
+    height: 31px;
+    object-fit: cover;
+}
+.we-make-chat {
+    position: absolute;
+    top: 184px;
+    left: 365px;
+    font-size: 45px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 720px;
+    height: 73px;
+}
+.pricing-plan-for {
+    position: absolute;
+    top: 291px;
+    left: 370px;
+    font-size: 30px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 500;
+    color: #46484a;
+    width: 678px;
+    height: 46px;
+}
+.choose-plan {
+    position: absolute;
+    top: 370px;
+    left: 192px;
+    font-size: 20px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 149px;
+    height: 25px;
+}
+.ellipse-div {
+    position: absolute;
+    top: 415px;
+    left: 206px;
+    border-radius: 50%;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 19px;
+    height: 15px;
+}
+.desktop-3-child1 {
+    position: absolute;
+    top: 446px;
+    left: 206px;
+    border-radius: 50%;
+    background-color: #0080ff;
+    width: 19px;
+    height: 17px;
+}
+.yearly-billing {
+    position: absolute;
+    top: 414px;
+    left: 241px;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 500;
+    color: #6d7173;
+    width: 116px;
+    height: 32px;
+}
+.monthly-billing {
+    position: absolute;
+    top: 443px;
+    left: 241px;
+    font-size: 16px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 500;
+    width: 124px;
+    height: 32px;
+}
+.desktop-3-child2 {
+    position: absolute;
+    top: 451px;
+    left: 212px;
+    border-radius: 50%;
+    background-color: #fff;
+    width: 6px;
+    height: 6px;
+}
+.price-tag {
+    position: absolute;
+    top: 365px;
+    left: 452px;
+    border-radius: 31px;
+    background-color: #fff;
+    width: 822px;
+    height: 462px;
+}
+.desktop-3-child3 {
+    position: absolute;
+    top: 347px;
+    left: 1016px;
+    border-radius: 30px;
+    background-color: #232627;
+    width: 291px;
+    height: 498px;
+}
+.enterprise {
+    position: absolute;
+    top: 408px;
+    left: 1030px;
+    font-size: 22px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #32c976;
+    width: 175px;
+    height: 46px;
+}
+.line-div {
+    position: absolute;
+    top: 363.5px;
+    left: 731.5px;
+    border-right: 3px solid #f3f5f7;
+    box-sizing: border-box;
+    width: 3px;
+    height: 478px;
+}
+.free {
+    position: absolute;
+    top: 398px;
+    left: 465px;
+    font-size: 27px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 113px;
+    height: 46px;
+}
+.pro {
+    position: absolute;
+    top: 404px;
+    left: 733px;
+    font-size: 27px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #348ef9;
+    width: 113px;
+    height: 46px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #ffa5e9;
+    width: 71px;
+    height: 22px;
+}
+.rectangle-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 71px;
+    height: 22px;
+}
+.popular {
+    position: absolute;
+    top: 4px;
+    left: 11px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 49px;
+    height: 15px;
+}
+.group-parent {
+    position: absolute;
+    top: 420px;
+    left: 1214px;
+    width: 71px;
+    height: 22px;
+    font-size: 9px;
+}
+.for-large-team {
+    position: absolute;
+    top: 454px;
+    left: 1033px;
+    font-size: 9px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #fff;
+    width: 181px;
+    height: 21px;
+}
+.more-advance-chat {
+    position: absolute;
+    top: 439px;
+    left: 764px;
+    font-size: 9px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 221px;
+    height: 21px;
+}
+.i {
+    position: absolute;
+    top: 512px;
+    left: 1065px;
+    font-size: 28px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #fff;
+    width: 106px;
+    height: 42px;
+}
+.i1 {
+    position: absolute;
+    top: 488px;
+    left: 770px;
+    font-size: 28px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 106px;
+    height: 42px;
+}
+.mo {
+    position: absolute;
+    top: 522px;
+    left: 1167px;
+    font-size: 25px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #6d7376;
+    width: 67px;
+    height: 42px;
+}
+.mo1 {
+    position: absolute;
+    top: 494px;
+    left: 867px;
+    font-size: 25px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #6d7376;
+    width: 67px;
+    height: 42px;
+}
+.per-month-per {
+    position: absolute;
+    top: 565px;
+    left: 1065px;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #b2b4b6;
+    width: 168px;
+    height: 26px;
+}
+.line-icon {
+    position: absolute;
+    top: 595px;
+    left: 1045px;
+    width: 229px;
+    height: 1.06px;
+    object-fit: contain;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #007fff;
+    width: 176px;
+    height: 39px;
+}
+.upgrade {
+    position: absolute;
+    top: 10px;
+    left: 32px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 112px;
+    height: 24px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 778px;
+    left: 1074px;
+    width: 176px;
+    height: 39px;
+    color: #fff;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+    width: 176px;
+    height: 39px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 758px;
+    left: 792px;
+    width: 176px;
+    height: 39px;
+}
+.customizable-ai-model {
+    position: absolute;
+    top: 653px;
+    left: 1090px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    color: #f7f8f9;
+    width: 143px;
+    height: 20px;
+}
+.enterprise-level-chat-support {
+    position: absolute;
+    top: 717px;
+    left: 1097px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    color: #f7f8f9;
+    width: 160px;
+    height: 20px;
+}
+.advanced-chat-management {
+    position: absolute;
+    top: 685px;
+    left: 1095px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    color: #f7f8f9;
+    width: 159px;
+    height: 20px;
+}
+.email-support {
+    position: absolute;
+    top: 648px;
+    left: 811px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 93px;
+    height: 20px;
+}
+.unlimited-chat-capabilites {
+    position: absolute;
+    top: 712px;
+    left: 811px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 151px;
+    height: 20px;
+}
+.unlimited-chat-hours {
+    position: absolute;
+    top: 680px;
+    left: 813px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 125px;
+    height: 20px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 7px;
+    background-color: #333839;
+    width: 35px;
+    height: 35px;
+}
+.icons8-crescent-moon-100-1 {
+    position: absolute;
+    top: 6px;
+    left: 4px;
+    width: 24px;
+    height: 23px;
+    object-fit: cover;
+}
+.rectangle-container {
+    position: absolute;
+    top: 856px;
+    left: 74px;
+    width: 35px;
+    height: 35px;
+}
+.fotor-20240213171729-2-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 28px;
+    height: 29px;
+    object-fit: cover;
+}
+.group-child2 {
+    position: absolute;
+    top: 22px;
+    left: 18px;
+    border-radius: 50%;
+    background-color: #32c676;
+    width: 8px;
+    height: 7px;
+}
+.fotor-20240213171729-2-parent {
+    position: absolute;
+    top: 807px;
+    left: 79px;
+    width: 28px;
+    height: 29px;
+}
+.b6fad8179462d6ae2bd5605ed5d509-icon {
+    position: absolute;
+    top: 911px;
+    left: 77px;
+    width: 30px;
+    height: 29px;
+    object-fit: cover;
+}
+.group-child3 {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #6d7175;
+    width: 17px;
+    height: 16px;
+}
+.i2 {
+    position: absolute;
+    top: 0px;
+    left: 4px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 8px;
+    height: 6px;
+}
+.ellipse-parent {
+    position: absolute;
+    top: 717px;
+    left: 1072px;
+    width: 17px;
+    height: 17px;
+}
+.ellipse-group {
+    position: absolute;
+    top: 649px;
+    left: 1072px;
+    width: 17px;
+    height: 17px;
+}
+.original-4924dd57a5cee300c77dc {
+    position: absolute;
+    top: -910px;
+    left: 86px;
+    width: 1147px;
+    height: 854px;
+}
+.ellipse-container {
+    position: absolute;
+    top: 641px;
+    left: 784px;
+    width: 17px;
+    height: 17px;
+}
+.group-div {
+    position: absolute;
+    top: 709px;
+    left: 784px;
+    width: 17px;
+    height: 17px;
+}
+.per-month-per1 {
+    position: absolute;
+    top: 557px;
+    left: 777px;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #b2b4b6;
+    width: 168px;
+    height: 26px;
+}
+.ellipse-parent1 {
+    position: absolute;
+    top: 675px;
+    left: 784px;
+    width: 17px;
+    height: 17px;
+}
+.basic-chat-functionality {
+    position: absolute;
+    top: 435px;
+    left: 451px;
+    font-size: 9px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 221px;
+    height: 21px;
+}
+.desktop-3-child4 {
+    position: absolute;
+    top: 587px;
+    left: 757px;
+    width: 229px;
+    height: 1.06px;
+    object-fit: contain;
+}
+.group-child8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    box-sizing: border-box;
+    width: 176px;
+    height: 39px;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 758px;
+    left: 506px;
+    width: 176px;
+    height: 39px;
+    color: #716d6d;
+}
+.i7 {
+    position: absolute;
+    top: 488px;
+    left: 498px;
+    font-size: 28px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    width: 106px;
+    height: 42px;
+}
+.no-history-maintained {
+    position: absolute;
+    top: 648px;
+    left: 525px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 123px;
+    height: 20px;
+}
+.mo2 {
+    position: absolute;
+    top: 494px;
+    left: 575px;
+    font-size: 25px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #6d7376;
+    width: 67px;
+    height: 42px;
+}
+.limited-chat-capabilites {
+    position: absolute;
+    top: 712px;
+    left: 512px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 160px;
+    height: 20px;
+}
+.upto-100-hours {
+    position: absolute;
+    top: 680px;
+    left: 517px;
+    font-size: 10px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 600;
+    width: 128px;
+    height: 20px;
+}
+.desktop-3-child5 {
+    position: absolute;
+    top: 587px;
+    left: 471px;
+    width: 229px;
+    height: 1.06px;
+    object-fit: contain;
+}
+.ellipse-parent2 {
+    position: absolute;
+    top: 641px;
+    left: 498px;
+    width: 17px;
+    height: 17px;
+}
+.ellipse-parent3 {
+    position: absolute;
+    top: 709px;
+    left: 498px;
+    width: 17px;
+    height: 17px;
+}
+.ellipse-parent4 {
+    position: absolute;
+    top: 675px;
+    left: 498px;
+    width: 17px;
+    height: 17px;
+}
+.free-forever {
+    position: absolute;
+    top: 557px;
+    left: 491px;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    display: inline-block;
+    font-weight: 700;
+    color: #b2b4b6;
+    width: 168px;
+    height: 26px;
+}
+.ellipse-parent5 {
+    position: absolute;
+    top: 683px;
+    left: 1072px;
+    width: 17px;
+    height: 17px;
+}
+.original-b53e3a1ec92544866e42c-icon {
+    position: absolute;
+    top: 602px;
+    left: 70px;
+    width: 432px;
+    height: 375px;
+    object-fit: cover;
+}
+.untitled-1-copy-1 {
+    position: absolute;
+    top: 91px;
+    left: 155px;
+    width: 113px;
+    height: 72px;
+    object-fit: cover;
+}
+.desktop-3 {
+    width: 100%;
+    position: relative;
+    /*background: linear-gradient(90deg, #a655f6, #855df4 30.9%, #576ef2 66.4%, #3f7ff5);*/
+    background-color: white;
+    height: 1024px;
+    overflow: hidden;
+    
+    font-size: 15px;
+    color: #000;
+    font-family: Inter;
+}
+
+/*Main code for add the  prremium page feature into the chat App */
+.logo{
+    margin-left: 20px;
+    margin-top: 10px;
+    display: flex;
+}
+.logo img{
+    height: 60px;
+}
+.title{
+    max-width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.title a{
+    margin-top: 10px;
+}
+.title p{
+    font-size: 35px;
+    font-weight: bold;
+    color: linear-gradient(90deg, #a655f6, #855df4 30.9%, #576ef2 66.4%, #3f7ff5);
+}
+.p2{
+    margin-top: 10px;
+    color: #46484A;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.circle{
+    height: 35px;
+    width: 35px;
+    background-color: #000;
+    align-items: end;
+    margin-left: 1350px;
+    border-radius: 50%;
+}
+.radiocheck{
+    width: 300px;
+    background-color: none;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.radiocheck input{
+    color: white;
+}
+.labelmain{
+    font-size: 19px;
+    color: blue;
+    font-weight: 700;
+}
+.imgboy img{
+    height: 400px;
+    width: 450px;
+}
